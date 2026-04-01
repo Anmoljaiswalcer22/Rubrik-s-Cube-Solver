@@ -1,0 +1,12 @@
+# build outputs
+build/
+b/
+rubiks
+run_tests
+*.o
+# generated pattern database (~42 MiB, rebuilt with ./rubiks build-db)
+data/
+# editor / OS
+.vscode/
+.idea/
+.DS_Store
